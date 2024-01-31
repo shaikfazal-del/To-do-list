@@ -22,7 +22,7 @@ Include a link to the live demo of your ToDo list website or add screenshots to 
 - Responsive design for various screen sizes
 
 ## output 
-[[To-Do list](Todo.png)](#)
+[[To-Do list](todo.png)](#)
 
 ## Usage
 Describe how users can interact with your ToDo list website. Include examples or screenshots if necessary.
