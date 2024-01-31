@@ -6,7 +6,6 @@ A simple ToDo list website created using HTML, CSS, and JavaScript.
 
 - [Demo](#demo)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Output images](#output)
 
@@ -24,11 +23,6 @@ Include a link to the live demo of your ToDo list website or add screenshots to 
 
 ## output 
 [[To-Do list](Todo.png)](#)
-
-
-## Getting Started
-
-Provide instructions on how to set up the project locally.
 
 ## Usage
 Describe how users can interact with your ToDo list website. Include examples or screenshots if necessary.
